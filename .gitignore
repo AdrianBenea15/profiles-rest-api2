@@ -12,6 +12,8 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idea/
+.DS_Store/
 .Python
 build/
 develop-eggs/
