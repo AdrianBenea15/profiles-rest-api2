@@ -128,7 +128,7 @@ dmypy.json
 .venv/
 
 
-.DS_Store
+/.DS_Store
 
 
 # Log files (if you are creating logs in debug mode, uncomment this)
