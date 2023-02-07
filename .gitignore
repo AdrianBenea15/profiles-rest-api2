@@ -12,6 +12,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idea
 .idea/
 .DS_Store/
 .Python
@@ -125,7 +126,7 @@ dmypy.json
 ### Python Patch ###
 .venv/
 
-.idea
+/.DS_Store
 .DS_Store
 
 # Log files (if you are creating logs in debug mode, uncomment this)
