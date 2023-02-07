@@ -12,6 +12,7 @@ __pycache__/
 *.so
 
 # Distribution / packaging
+.idea
 .idea/
 .DS_Store/
 .Python
@@ -98,6 +99,7 @@ celerybeat-schedule
 # Environments
 .env
 .venv
+env
 env/
 venv/
 ENV/
@@ -125,7 +127,7 @@ dmypy.json
 ### Python Patch ###
 .venv/
 
-.idea
+
 .DS_Store
 
 
